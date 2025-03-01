@@ -5,7 +5,7 @@ This repository contains simulation files for both monomeric and homotrimeric as
 
 # **Repository Contents**
 
-#**PDB Files:** Protein Data Bank files that contain the 3D structures of proteins and lipids used in the simulations.
+# **PDB Files:** Protein Data Bank files that contain the 3D structures of proteins and lipids used in the simulations.
 - **LAMP2A_WT_monomer_initial_1ns_centered** (`.pdb` files extracted from AF3 containg the residues of HSC70 lid domain with CMA substrate segments of KFERQ-type motif)
 
 
