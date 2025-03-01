@@ -7,28 +7,28 @@ This repository contains molecular dynamics (MD) simulation data for both monome
 
 #  1. PDB Files:Protein Data Bank files that contain the 3D structures of protein and lipids used in the simulations.
 
-_ **LAMP2A_WT_monomer_initial_1ns_centered.pdb **
+_**LAMP2A_WT_monomer_initial_1ns_centered.pdb**
 Description: The initial structure of the LAMP2A monomer embedded in a lipid bilayer, centered for simulation.
 
-LAMP2A_WT_trimer_initial_1ns_centered.pdb
+_**LAMP2A_WT_trimer_initial_1ns_centered.pdb**
 Description: The initial structure of the homotrimeric LAMP2A assembly, centered in the lipid bilayer.
 
-LAMP2A_AAAA_monomer_initial_1ns_centered.pdb
+_**LAMP2A_AAAA_monomer_initial_1ns_centered.pdb**
 Description: The initial structure of the mutant (401AAAA404) monomeric LAMP2A, centered in the lipid bilayer.
 
-LAMP2A_AAAA_trimer_initial_1ns_centered.pdb
+_**LAMP2A_AAAA_trimer_initial_1ns_centered.pdb**
 Description: The initial structure of the mutant homotrimeric LAMP2A assembly, centered in the lipid bilayer.
 
-LAMP2A_WT_monomer_final_1000ns_centered.pdb
+_**LAMP2A_WT_monomer_final_1000ns_centered.pdb**
 Description: The final structure of the WT monomeric LAMP2A after 1000 ns of simulation, centered in the lipid bilayer.
 
-LAMP2A_WT_trimer_final_1000ns_centered.pdb
+_**LAMP2A_WT_trimer_final_1000ns_centered.pdb**
 Description: The final structure of the WT homotrimeric LAMP2A after 1000 ns of simulation, centered in the lipid bilayer.
 
-LAMP2A_Mutant_monomer_final_1000ns_centered.pdb
+_**LAMP2A_Mutant_monomer_final_1000ns_centered.pdb**
 Description: The final structure of the mutant monomeric LAMP2A after 1000 ns of simulation, centered in the lipid bilayer.
 
-LAMP2A_Mutant_trimer_final_1000ns_centered.pdb
+_**LAMP2A_Mutant_trimer_final_1000ns_centered.pdb**
 Description: The final structure of the mutant homotrimeric LAMP2A after 1000 ns of simulation, centered in the lipid bilayer.
 
 
