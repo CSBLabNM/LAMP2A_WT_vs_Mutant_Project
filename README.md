@@ -5,9 +5,9 @@ This repository contains molecular dynamics (MD) simulation data for both monome
 
 # **Repository Contents**
 
-#  1. PDB Files:Protein Data Bank files that contain the 3D structures systems used in the simulations.
+#  1. PDB Files:Protein Data Bank files that contain the 3D structures of protein and lipids used in the simulations.
 
-LAMP2A_WT_monomer_initial_1ns_centered.pdb
+_ **LAMP2A_WT_monomer_initial_1ns_centered.pdb **
 Description: The initial structure of the LAMP2A monomer embedded in a lipid bilayer, centered for simulation.
 
 LAMP2A_WT_trimer_initial_1ns_centered.pdb
