@@ -17,7 +17,7 @@ Each system was subjected to microsecond-scale MD simulations: three replicas fo
   -  **1100** → Lys401 (+1) with only His402 protonated.
   -  **1010** → Lys401 (+1) with only His403 protonated.
   -  **1001** → Lys401 (+1) with only His404 protonated.
-  -  **1111** →  Lys401 (+1) with all three histidines (402–404) protonated.
+  -  **1111** → Lys401 (+1) with all three histidines (402–404) protonated.
   -  **AAAA** → All four residues mutated to alanine (mutant).
 
 - **LAMP2A_Trimer (Residues 401–404 Variants)**
