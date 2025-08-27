@@ -1,7 +1,8 @@
 # LAMP2A_WT_vs_Mutant_Project
-# **Membrane Burial of Juxtamembrane Residues Weakens Oligomeric Interactions Leading to LAMP2A Inactivation**
+# **Mechanistic insights into how juxtamembrane residue modulation leads to LAMP2A inactivation in chaperone-mediated autophagy**
 # Overview
-This repository contains molecular dynamics (MD) simulation data for both monomeric and homotrimeric assemblies of human Lysosome-Associated Membrane Protein 2A (LAMP2A). The dataset includes simulations for the wild-type (WT) and an inactive mutant variant within a biologically relevant lysosomal membrane environment. The simulations were conducted for 1000 ns using GROMACS to investigate the structural and dynamic consequences of the mutation.
+This repository contains molecular dynamics (MD) simulation datasets for both monomeric and homotrimeric assemblies of the human Lysosome-Associated Membrane Protein 2A (LAMP2A). The simulations encompass wild-type (WT) systems in which histidine residues at positions 402–404 were modeled in either their neutral (0) or protonated (+1) states, yielding five distinct protonation combinations: 1000, 1100, 1010, 1001, and 1111. In addition, an inactive mutant variant of LAMP2A was simulated within a biologically relevant lysosomal membrane environment.
+Each system was subjected to microsecond-scale MD simulations: three replicas for the trimeric assemblies and two replicas for the monomeric systems, with trajectories extending to 1000 ns per replica. All simulations were performed using GROMACS, enabling detailed investigation of the structural and dynamical consequences of the protonation states and the mutation on LAMP2A stability and function.
 
 # **Repository Contents**
 
