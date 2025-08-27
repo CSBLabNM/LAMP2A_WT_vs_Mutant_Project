@@ -7,6 +7,26 @@ Each system was subjected to microsecond-scale MD simulations: three replicas fo
 # **Repository Contents**
 
 # File Description
+- **initial.pdb** (The initial structure of the for the given system embedded in a lipid bilayer, used for simulation.)
+- **final.pdb** (The final structure of the system after the 1000ns MD simulation.)
+- **trj.xtc** (Compressed trajectory file containing the simulation trajectory.)
+
+# Simulation Details
+- **LAMP2A_Monomer  (Residues 401–404 Variants)**
+  -  **1000** → Lys401 (+1) with all histidines neutral.
+  -  **1100** → Lys401 (+1) with only His402 protonated.
+  -  **1010** → Lys401 (+1) with only His403 protonated.
+  -  **1001** → Lys401 (+1) with only His404 protonated.
+  -  **1111** → Lys401 (+1) with all three histidines (402–404) protonated.
+  -  **AAAA** → All four residues mutated to alanine (mutant).
+
+- **LAMP2A_Monomer  (Residues 401–404 Variants)**
+  -  **1000** → Lys401 (+1) with all histidines neutral.
+  -  **1100** → Lys401 (+1) with only His402 protonated.
+  -  **1010** → Lys401 (+1) with only His403 protonated.
+  -  **1001** → Lys401 (+1) with only His404 protonated.
+  -  **1111** → Lys401 (+1) with all three histidines (402–404) protonated.
+  -  **AAAA** → All four residues mutated to alanine (mutant).
 
 #  1. PDB Files
 Protein Data Bank files that contain the 3D structures of protein and lipids used in the simulations:
