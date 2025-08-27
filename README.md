@@ -7,7 +7,7 @@ Each system was subjected to microsecond-scale MD simulations: three replicas fo
 # **Repository Contents**
 
 # File Description
-- **initial.pdb** (The initial structure of the for the given system embedded in a lipid bilayer, used for simulation.)
+- **initial.pdb** (The initial structure of protein embedded in a lipid bilayer, used for simulation.)
 - **final.pdb** (The final structure of the system after the 1000ns MD simulation.)
 - **trj.xtc** (Compressed trajectory file containing the simulation trajectory.)
 
